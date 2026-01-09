@@ -102,7 +102,7 @@
 
 ### 1. Клонировать репозиторий
 ```bash
-git clone https://github.com/USERNAME/multi-model-llm-router.git
+git clone https://github.com/DENISOV-SERGEI/multi-model-llm-router.git
 cd multi-model-llm-router
 ```
 ### 2. Задать API-ключ
